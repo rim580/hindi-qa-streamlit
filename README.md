@@ -1,4 +1,4 @@
-# hindi-qa-streamlit
+# hindi-qa-chatbot
 # 🇮🇳 Hindi AI Chatbot (हिंदी चैटबॉट)
 
 An intelligent conversational AI chatbot that understands and responds fluently in pure Hindi (Devanagari script) and Hinglish. Built using Python, Streamlit, and modern Large Language Models (LLMs).
@@ -71,5 +71,3 @@ python-dotenv>=1.0.0
 
 ---
 
-##  License
-Distributed under the MIT License. See `LICENSE` for more information.
