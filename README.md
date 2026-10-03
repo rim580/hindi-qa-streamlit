@@ -3,7 +3,7 @@
 
 An intelligent conversational AI chatbot that understands and responds fluently in pure Hindi (Devanagari script) and Hinglish. Built using Python, Streamlit, and modern Large Language Models (LLMs).
 
-## 🚀 Features
+##  Features
 * **Bilingual Understanding**: Processes inputs in Devanagari (हिंदी) or Latin (Hinglish) scripts.
 * **Natural Responses**: Generates context-aware, grammatically accurate Hindi replies.
 * **Interactive UI**: Clean, responsive chat interface powered by Streamlit.
@@ -11,7 +11,7 @@ An intelligent conversational AI chatbot that understands and responds fluently 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 hindi-chatbot/
 ├── .streamlit/
@@ -24,7 +24,7 @@ hindi-chatbot/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -51,7 +51,7 @@ OPENAI_API_KEY=your_actual_api_key_here
 
 ---
 
-## 🖥️ Running the Application
+## Running the Application
 
 Launch the Streamlit web interface locally:
 ```bash
@@ -62,7 +62,7 @@ Open the provided local URL (usually `http://localhost:8501`) in your web browse
 
 ---
 
-## 🧩 Requirements (`requirements.txt`)
+## Requirements (`requirements.txt`)
 ```text
 streamlit>=1.30.0
 openai>=1.0.0
@@ -71,5 +71,5 @@ python-dotenv>=1.0.0
 
 ---
 
-## 📜 License
+##  License
 Distributed under the MIT License. See `LICENSE` for more information.
