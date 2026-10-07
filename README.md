@@ -1,6 +1,6 @@
 # hindi-qa-chatbot
 # 🇮🇳 Hindi AI Chatbot 
-
+An intelligent conversational AI chatbot that understands and responds fluently in pure Hindi (Devanagari script) and Hinglish. Built using Python, Streamlit, and modern Large Language Models (LLMs).
 
 
 ##  Features
