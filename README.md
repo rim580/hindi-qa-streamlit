@@ -4,7 +4,7 @@ An intelligent conversational AI chatbot that understands and responds fluently 
 
 
 ##  Features
-* **Bilingual Understanding**: Processes inputs in Devanagari (हिंदी) or Latin (Hinglish) scripts.
+* **Bilingual Understanding**: Processes inputs in Devanagari (हिंदी)
 * **Natural Responses**: Generates context-aware, grammatically accurate Hindi replies.
 * **Interactive UI**: Clean, responsive chat interface powered by Streamlit.
 * **Chat History**: Maintains conversation context dynamically during the session.
